@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\bin\Debug\net5.0\TaskLiveCoding.exe
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\bin\Debug\net5.0\TaskLiveCoding.deps.json
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\bin\Debug\net5.0\TaskLiveCoding.runtimeconfig.json
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\bin\Debug\net5.0\TaskLiveCoding.runtimeconfig.dev.json
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\bin\Debug\net5.0\TaskLiveCoding.dll
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\bin\Debug\net5.0\ref\TaskLiveCoding.dll
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\bin\Debug\net5.0\TaskLiveCoding.pdb
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\obj\Debug\net5.0\TaskLiveCoding.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\obj\Debug\net5.0\TaskLiveCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\obj\Debug\net5.0\TaskLiveCoding.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\obj\Debug\net5.0\TaskLiveCoding.AssemblyInfo.cs
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\obj\Debug\net5.0\TaskLiveCoding.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\obj\Debug\net5.0\TaskLiveCoding.dll
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\obj\Debug\net5.0\ref\TaskLiveCoding.dll
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\obj\Debug\net5.0\TaskLiveCoding.pdb
+C:\Users\danie\source\repos\TaskLiveCoding\TaskLiveCoding\obj\Debug\net5.0\TaskLiveCoding.genruntimeconfig.cache
